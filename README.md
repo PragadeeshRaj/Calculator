@@ -10,6 +10,6 @@ This is our Scientific Calculator base. Here we develop the simple as well as th
 * The next goal is to put these basic components into a robust GUI of a calculator for ease of use.
 # Website Integration
 * For more information on the website integration of this project, please visit the link below to a Project Document and scroll to the Calculator Project module where we explain the aspects of the website we will be including in our next project as well as insight into the python code of the project as well.
-* https://docs.google.com/document/d/15grJS6NvqweobiPMeU0I7MVSrPCKtG3DIpIrDbRWIWw/edit
+* https://docs.google.com/document/d/15grJS6NvqweobiPMeU0I7MVSrPCKtG3DIpIrDbRWIWw/edit?usp=sharing
 # Deployment Platform
 * https://repl.it/@AZPragTeam/ThisIsItBoisV2#main.py
